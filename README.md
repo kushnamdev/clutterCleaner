@@ -1,6 +1,7 @@
 
 
 <h1 class="code-line" data-line-start=0 data-line-end=1 ><a id="clutterCleaner_0"></a>clutterCleaner</h1>
+
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 <p class="has-line-data" data-line-start="2" data-line-end="3">ClutterCleaner is a offline tool that can be used by anyone to clear your folder clutter in a few seconds .</p>
