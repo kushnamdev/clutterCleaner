@@ -4,7 +4,7 @@
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
-<p class="has-line-data" data-line-start="2" data-line-end="3">ClutterCleaner is a offline tool that can be used by anyone to clear your folder clutter in a few seconds .</p>
+<p class="has-line-data" data-line-start="2" data-line-end="3">ClutterCleaner is a offline tool that can be used by anyone to clear/organise your folder clutter in a few seconds .</p>
 <h1 class="code-line" data-line-start=4 data-line-end=5 ><a id="Description_4"></a>Description-</h1>
 <p class="has-line-data" data-line-start="6" data-line-end="9">This tool generally organise all type of files in different folders ,<br>
 If you have any messy folder in your desktop you can use this tool to organise your files automatically .<br>
