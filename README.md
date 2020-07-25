@@ -34,6 +34,8 @@ You can see the magic . 💻😉</p>
 <li class="has-line-data" data-line-start="39" data-line-end="40">Add more features to it</li>
 </ul>
 <p class="has-line-data" data-line-start="44" data-line-end="46"><strong>Free Software, Hell Yeah!</strong><br>
-© kush Namdev</p>
+© kush Namdev
+Thanks @codewitharry ❤
+</p>
 
 
