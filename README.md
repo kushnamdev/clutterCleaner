@@ -33,9 +33,9 @@ You can see the magic . 💻😉</p>
 <li class="has-line-data" data-line-start="38" data-line-end="39">use it</li>
 <li class="has-line-data" data-line-start="39" data-line-end="40">Add more features to it</li>
 </ul>
-<p class="has-line-data" data-line-start="44" data-line-end="46"><strong>Free Software, Hell Yeah!</strong><br>
+<p class="has-line-data" data-line-start="44" data-line-end="46"><strong>Free Script ...</strong><br>
 © kush Namdev
-Thanks @codewitharry ❤
+Special Thanks @codewitharry ❤
 </p>
 
 
